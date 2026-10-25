@@ -90,5 +90,7 @@ let player1 = Symbol('jay');
 
 let player2 = Symbol('jay');
 
-console.log(id1 == id2);
-console.log(id1 === id2);
+// console.log(id1 == id2);
+// console.log(id1 === id2);
+
+console.log(player1.toString())
